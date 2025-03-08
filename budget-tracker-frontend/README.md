@@ -62,7 +62,7 @@ Start the React Development Server
 npm start
 ```
 
-The React frontend will be running at http://localhost:3000
+The React frontend will be running at `http://localhost:3000`(your browser should automatically open to this page).
 
 ## 🚀 Features
 
